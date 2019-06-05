@@ -1,0 +1,11 @@
+C:\Users\William\workspace\csharp\exercises\CustomeColorsSounds\obj\Debug\netcoreapp2.2\CustomeColorsSounds.csprojAssemblyReference.cache
+C:\Users\William\workspace\csharp\exercises\CustomeColorsSounds\obj\Debug\netcoreapp2.2\CustomeColorsSounds.csproj.CoreCompileInputs.cache
+C:\Users\William\workspace\csharp\exercises\CustomeColorsSounds\obj\Debug\netcoreapp2.2\CustomeColorsSounds.AssemblyInfoInputs.cache
+C:\Users\William\workspace\csharp\exercises\CustomeColorsSounds\obj\Debug\netcoreapp2.2\CustomeColorsSounds.AssemblyInfo.cs
+C:\Users\William\workspace\csharp\exercises\CustomeColorsSounds\bin\Debug\netcoreapp2.2\CustomeColorsSounds.deps.json
+C:\Users\William\workspace\csharp\exercises\CustomeColorsSounds\bin\Debug\netcoreapp2.2\CustomeColorsSounds.runtimeconfig.json
+C:\Users\William\workspace\csharp\exercises\CustomeColorsSounds\bin\Debug\netcoreapp2.2\CustomeColorsSounds.runtimeconfig.dev.json
+C:\Users\William\workspace\csharp\exercises\CustomeColorsSounds\bin\Debug\netcoreapp2.2\CustomeColorsSounds.dll
+C:\Users\William\workspace\csharp\exercises\CustomeColorsSounds\bin\Debug\netcoreapp2.2\CustomeColorsSounds.pdb
+C:\Users\William\workspace\csharp\exercises\CustomeColorsSounds\obj\Debug\netcoreapp2.2\CustomeColorsSounds.dll
+C:\Users\William\workspace\csharp\exercises\CustomeColorsSounds\obj\Debug\netcoreapp2.2\CustomeColorsSounds.pdb
